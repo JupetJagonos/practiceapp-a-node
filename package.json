@@ -1,0 +1,26 @@
+{
+  "name": "practiceapp-a",
+  "version": "1.0.0",
+  "description": "My First Express app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JupetJagonos/practiceapp-a-node.git"
+  },
+  "author": "Jupet Jagonos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JupetJagonos/practiceapp-a-node/issues"
+  },
+  "homepage": "https://github.com/JupetJagonos/practiceapp-a-node#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "pug": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
